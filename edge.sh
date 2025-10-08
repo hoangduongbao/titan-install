@@ -128,7 +128,7 @@ fi
 
 # Configuration
 IMAGE_NAME="laodauhgc/titan-edge"
-STORAGE_GB=50
+STORAGE_GB=2
 START_PORT=1235
 TOTAL_NODES=$node_count  # Renamed for clarity
 TITAN_EDGE_DIR="/root/titan-edge"
